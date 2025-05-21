@@ -3,7 +3,7 @@ import React from "react";
 function Contact() {
   return (
     <>
-      <div className="flex flex-col justify-center items-center h-screen bg-amber-100">
+      <div className="flex flex-col justify-center items-center h-screen">
         <h1 className="text-4xl font-bold mb-4">Contact Us</h1>
         <p>If you have any questions, feel free to reach out to us.</p>
         <p>Email us At : forexample@gmail.com</p>
