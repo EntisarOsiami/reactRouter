@@ -9,7 +9,7 @@ function Contact() {
         <p>Email us At : forexample@gmail.com</p>
         <p>Call us At : +123456789</p>
 
-        <form className="mt-6">
+        <form className="mt-6 flex flex-col items-center">
             <input
                 type="text"
                 placeholder="Your Name"
